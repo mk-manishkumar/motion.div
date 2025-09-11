@@ -6,7 +6,6 @@ const SOCIAL_MEDIA_LINKS = [
     icon: <FaFacebook fontSize={30} className="hover:opacity-80" />,
     name: "Facebook",
   },
-
   {
     href: "https://instagram.com/",
     icon: <FaInstagram fontSize={30} className="hover:opacity-80" />,

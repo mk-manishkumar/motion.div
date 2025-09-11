@@ -13,13 +13,13 @@ const App = () => {
     <main className="overflow-y-hidden text-neutral-200 antialiased">
       <HeroSection />
       <Navbar />
-      <Dishes/>
-      <About/>
-      <Mission/>
-      <Expertise/>
-      <Review/>
-      <Contact/>
-      <Footer/>
+      <Dishes />
+      <About />
+      <Mission />
+      <Expertise />
+      <Review />
+      <Contact />
+      <Footer />
     </main>
   );
 };
