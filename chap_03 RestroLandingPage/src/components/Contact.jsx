@@ -1,4 +1,4 @@
-import { CONTACT } from "../constant"
+import { CONTACT } from "../constant";
 
 const Contact = () => {
   return (
@@ -12,7 +12,7 @@ const Contact = () => {
         ))}
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default Contact
+export default Contact;
